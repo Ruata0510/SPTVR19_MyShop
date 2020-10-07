@@ -10,7 +10,7 @@ class App {
     int max_count = 10;
     int max_price = 120;
     
-    String names[] = {"Banana","Vodka","Sausage","Chair","Sofa"};    
+    String names[] = {"Ananas","Pivo","Pomidir","Ogurets","Baton"};    
        
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_BLACK = "\u001B[30m";
